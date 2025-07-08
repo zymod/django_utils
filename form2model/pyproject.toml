@@ -1,5 +1,5 @@
 [project]
-name = "django_utils"
+name = "django-form2model"
 version = "0.1.0"
 description = "Pomocnicze funkcje do Django"
 readme = "README.md"
